@@ -1,0 +1,6 @@
+D:\SchoolCourses\AEC_2022_Winter\c#\Project\V.1\EmployeeManagerApp\EmployeeClassLibrary\bin\Debug\EmployeeClassLibrary.dll
+D:\SchoolCourses\AEC_2022_Winter\c#\Project\V.1\EmployeeManagerApp\EmployeeClassLibrary\bin\Debug\EmployeeClassLibrary.pdb
+D:\SchoolCourses\AEC_2022_Winter\c#\Project\V.1\EmployeeManagerApp\EmployeeClassLibrary\obj\Debug\EmployeeClassLibrary.csproj.AssemblyReference.cache
+D:\SchoolCourses\AEC_2022_Winter\c#\Project\V.1\EmployeeManagerApp\EmployeeClassLibrary\obj\Debug\EmployeeClassLibrary.csproj.CoreCompileInputs.cache
+D:\SchoolCourses\AEC_2022_Winter\c#\Project\V.1\EmployeeManagerApp\EmployeeClassLibrary\obj\Debug\EmployeeClassLibrary.dll
+D:\SchoolCourses\AEC_2022_Winter\c#\Project\V.1\EmployeeManagerApp\EmployeeClassLibrary\obj\Debug\EmployeeClassLibrary.pdb

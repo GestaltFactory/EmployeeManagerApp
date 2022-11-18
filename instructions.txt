@@ -1,0 +1,22 @@
+For login
+	employee => test/Test123!
+ 	Admin => karl/Karl123!
+when no admin exist or list of emp is empty otherwise it is disabled. 
+This user should no be used to do anything other than creating an admin if one is required.
+ 	SuperUser => yan/123
+
+I used a relative path for the headshot of the emp
+it should work on your side too.
+
+You can only access the creation and edit pages if you are an admin,
+a emp only has access to the display view form once he is log in
+
+You can't delete anything, you archive instead by moving the deleted line to another file before deleting
+it from the first.
+
+Everything worked when i tested it on my side so it should on yours too.
+
+The emp and task in the list are garbage for testing. I kept them there anyway to have something to test.
+Some pictures are there also for the same reason and they are bind to their emp so it might crash if they are moved.
+
+
